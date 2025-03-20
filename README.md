@@ -15,6 +15,8 @@ I am an Software Engineering student from Colombia. I am passionate about backen
 - Outside of technology,  🎮 I love playing video games, 🖌️ painting, 🤾‍♀️ sports, 🎵 listening to music, and 💕 spending quality time with those i love.
 - 📫 Reach out to me at: <a href="yeritzapalacio7@gmail.com">yeritzapalacio7@gmail.com</a>
 
+<img align="right" width=300px alt="Cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpzeHMyN21ldHFvYzFqN29zODd6MHo5aTR5NHYxM3oyd2RqMDQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 <img src="https://media.tenor.com/OEPDshveEx0AAAAj/butterfly.gif" width="30px">&nbsp;***Skills***
 
 <h4> Languages in progress</h4>
